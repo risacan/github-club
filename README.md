@@ -1,8 +1,4 @@
 # GitHubClub!
-
-- Good evening from desktop! 🌃
-- OK UDEMUSHI!!!!!
-- about GitHub Club
-  - cheniki-udemushi
-  - hasu-bold
-  - nikaino-tami
+- @risacan 先生がわかりやすく丁寧に楽しく教えてくれます。
+- Github の仕組みと触り方がわかります。
+- とっても楽しいよ。
