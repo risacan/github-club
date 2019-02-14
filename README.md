@@ -1,8 +1,8 @@
-# GitHubClub!
+# これを読んだ人はタヒぬ 
 
-- Good evening from desktop! 🌃
-- OK UDEMUSHI!!!!!
-- about GitHub Club
-  - cheniki-udemushi
-  - hasu-bold
-  - nikaino-tami
+
+
+
+
+
+- USO DAYO
