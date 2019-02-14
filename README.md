@@ -1,4 +1,4 @@
 # GitHubClub!
 
 - Good evening from desktop! 🌃
-- OK UDEMUSHI!!!!!
+- Git と GitHub について学ぶ勉強会です！！！
