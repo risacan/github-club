@@ -1,4 +1,5 @@
 # GitHubClub!
 
-- Good evening from desktop! 🌃
-- OK UDEMUSHI!!!!!
+- @risacan 先生がわかりやすく丁寧に楽しく教えてくれます。
+- Github の仕組みと触り方がわかります。
+- とっても楽しいよ。
