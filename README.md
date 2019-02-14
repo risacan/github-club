@@ -6,3 +6,4 @@
   - cheniki-udemushi
   - hasu-bold
   - nikaino-tami
+  - kani
